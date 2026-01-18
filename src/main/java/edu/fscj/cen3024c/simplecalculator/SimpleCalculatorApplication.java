@@ -2,6 +2,9 @@
 // D. Singletary
 // 1/9/2024
 // Template for calculator application
+// Modified by: Seralvin Burgos
+// 1/17/2026
+// enabled add, subtract, multiply, divide imports from SimpleCalculator.java
 
 package edu.fscj.cen3024c.simplecalculator;
 

@@ -1,3 +1,8 @@
+// SimpleCalculator.java
+// Seralvin Burgos
+// 1/17/2026
+// add, subtract, multiply, divide methods for SimpleCalculatorApplication.java
+
 package edu.fscj.cen3024c.simplecalculator;
 
 public class SimpleCalculator {
