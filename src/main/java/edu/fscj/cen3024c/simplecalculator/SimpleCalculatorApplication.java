@@ -8,6 +8,8 @@ package edu.fscj.cen3024c.simplecalculator;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+import static edu.fscj.cen3024c.simplecalculator.SimpleCalculator.*;
+
 @SpringBootApplication
 public class SimpleCalculatorApplication {
     public static void main(String[] args) {
